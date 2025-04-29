@@ -7,3 +7,5 @@
 Проект собран на Vite + TS с использованием Handlebars
 
 Запуск проекта : npm init
+
+Публичная ссылка на Netlify : cute-griffin-cb966e.netlify.app
